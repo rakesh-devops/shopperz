@@ -2,7 +2,7 @@
 
 
 
-“Copyright” also means copyright-lie laws that apply to other kinds of works, such as semiconductor masks.
+“Copyright” also meansRAight-lie laws that apply to other kinds of works, such as semiconductor masks.
 
 
 
