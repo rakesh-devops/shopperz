@@ -2,11 +2,6 @@
 
 
 
-“Copyright” also meansRAight-lie laws that apply to other kinds of works, such as semiconductor masks.
-
-
-
-
 A “covered work” means either the unmodified Program or a work based on the Program.
 
 To “propagate” a work means to do anything with it that, without permission, would make you directly or secondarily liable for infringement under applicable copyright law, except executing it on a computer or modifying a private copy. Propagation includes copying, distribution (with or without modification), making available to the public, and in some countries other activities as well.
